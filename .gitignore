@@ -9,6 +9,11 @@
 
 .idea/
 
+# Compiled files
+*.tfstate.backup
+*.tfstate.lock.info
+.terraform.lock.hcl
+
 # Created by https://www.gitignore.io/api/intellij
 
 ### Intellij ###
