@@ -8,6 +8,7 @@
 /dataSources.local.xml
 
 .idea/
+*.backup
 
 # Compiled files
 *.tfstate.backup
